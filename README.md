@@ -1,7 +1,7 @@
 # Polyglot-ko-1.3b-lite
 
 [EleutherAI/polyglot-ko-1.3b](https://huggingface.co/EleutherAI/polyglot-ko-1.3b/)를 기반으로, PEFT 기법 중에 하나인 QLoRA로 미세조정한 모델입니다.<br/>
-본 프로젝트로 제작한 결과물은 [Polyglot-ko-1.3b-lite](https://huggingface.co/JoonkyuBest/polyglot-ko-1.3b-lite1.0)에 올려져 있습니다.<br/>
+본 프로젝트로 제작한 미세조정 모델은 [Huggingface](https://huggingface.co/JoonkyuBest/polyglot-ko-1.3b-lite1.0)에 올려져 있습니다.<br/>
 본 프로젝트를 사용하여, 새롭게 미세조정한 모델을 제작하실 수 있습니다.<br/>
 본 프로젝트의 기반인 Polyglot 모델에 대한, 자세한 정보는 [여기](https://github.com/EleutherAI/polyglot)를 참조하세요.
 
